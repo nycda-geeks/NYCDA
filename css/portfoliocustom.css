@@ -5,15 +5,25 @@
 
 .overlay{
 	position: absolute;
+  font-size:2.5em;
 	top: 70%;
   	bottom: 30%;
-  	left: 0;
-  	right: 0;
+  	left: 50%;
+  	right: 50%;
   	color:white;
   	visibility: hidden;
+}
+
+#portfolio{
+  padding: 0;
 }
 
 .portfolio-item:hover .overlay {
   visibility: visible;
   opacity: 1;
+}
+
+.img-portfolio.img-responsive{
+  width: 150%;
+  height: 150%;
 }
