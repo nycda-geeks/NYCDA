@@ -200,6 +200,7 @@ hr.small {
 
 .portfolio-item {
     margin-bottom: 0px;
+    background: black;
 }
 
 .img-portfolio {
@@ -212,6 +213,7 @@ hr.small {
 .img-portfolio:hover {
     filter: none;
   -webkit-filter: grayscale(0%);
+  opacity: 0.7;
 }
 
 /* Call to Action */
