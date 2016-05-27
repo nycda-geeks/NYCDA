@@ -2,3 +2,18 @@
 	padding-left: 0;
 	padding-right: 0;
 }
+
+.overlay{
+	position: absolute;
+	top: 70%;
+  	bottom: 30%;
+  	left: 0;
+  	right: 0;
+  	color:white;
+  	visibility: hidden;
+}
+
+.portfolio-item:hover .overlay {
+  visibility: visible;
+  opacity: 1;
+}
