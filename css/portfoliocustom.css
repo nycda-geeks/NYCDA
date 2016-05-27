@@ -5,9 +5,10 @@
 
 .overlay{
 	position: absolute;
-  font-size:2em;
+  font-size:1.5em;
   letter-spacing: 3px;
   font-weight: bold;
+  pointer-events: none;
 	top: 70%;
   	bottom: 30%;
   	left: 10%;
