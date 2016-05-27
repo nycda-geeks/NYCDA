@@ -213,7 +213,7 @@ hr.small {
 .img-portfolio:hover {
     filter: none;
   -webkit-filter: grayscale(0%);
-  opacity: 0.7;
+  opacity: 0.6;
 }
 
 /* Call to Action */
