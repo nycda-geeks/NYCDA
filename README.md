@@ -1,5 +1,5 @@
 # NYCDA AMS April 2016 Site
-This is a site we made to showcase the students taking the full-time web development intensive course in Amsterda, April 2016.
+This is a site we made to showcase the students taking the full-time web development intensive course in Amsterdam, April 2016.
 
 Bootstrap template used: [Start Bootstrap](http://startbootstrap.com/) - [Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/)
 
